@@ -1,14 +1,14 @@
 /* Styling for the body */
 body {
-  background-color: #98fb98; /* Set background color */
-  color: #333333; /* Set text color */
-  font-family: Arial, sans-serif; /* Set font family */
+  background-color: #98fb98; /* background light green */
+  color: #333333; /* Color of text */
+  font-family: Arial, sans-serif; /* Font */
 }
 
 /* Styling for the nav */
 nav {
-  height: 6000px; /* Set height */
-  width: 200px; /* Set width */
+  height: 6000px; /* Height */
+  width: 200px; /* width */
   float: left; /* Float to the left */
   padding: 5px; /* Set padding */
   line-height: 30px; /* Set line height */
