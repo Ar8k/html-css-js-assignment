@@ -1,0 +1,34 @@
+/* Styling for the body */
+body {
+  background-color: #f0f0f0; /* Set background color */
+  color: #333333; /* Set text color */
+  font-family: Arial, sans-serif; /* Set font family */
+}
+
+/* Styling for the nav */
+nav {
+  height: 6000px; /* Set height */
+  width: 200px; /* Set width */
+  float: left; /* Float to the left */
+  padding: 5px; /* Set padding */
+  line-height: 30px; /* Set line height */
+  background-color: #e0e0e0; /* Set background color for nav */
+}
+
+/* Styling for the footer */
+footer {
+  text-align: center; /* Center-align text */
+  margin-right: 200px; /* Set right margin */
+  background-color: #d0d0d0; /* Set background color for footer */
+}
+
+/* Styling for the #memeImage */
+#memeImage {
+  margin-right: 200px; /* Set right margin */
+}
+
+/* Styling for the header */
+header {
+  text-align: center; /* Center-align text */
+  background-color: #f8f8f8; /* Set background color for header */
+}
